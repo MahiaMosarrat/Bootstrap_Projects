@@ -33,7 +33,7 @@ Each project is in its own folder and can be run independently. Below is the lis
 ### 🧩 Project 2: Education Website
 - **Description:** A clean and professional education-themed site built with Bootstrap’s grid and form components.  
 - **Key Concepts:** Grid system, forms, carousel, buttons, and typography utilities.  
-- **Live Demo:** [🔗 View Project](https://education-project-app.netlify.app/)  
+- **Live Demo:** [🔗 View Project](https://education-project-app.netlify.app/) 
 - **Screenshot:**  
  <img width="1920" height="3200" alt="image" src="https://github.com/user-attachments/assets/e60eee3b-cee2-4447-8d56-347ef9805d7d" />
 
